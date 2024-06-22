@@ -1,0 +1,9 @@
+/report.zip
+/report-template/
+/oai_key
+/mistral_key
+*.png
+/datasets/
+/backups/
+/anthropic-key
+/.direnv/
